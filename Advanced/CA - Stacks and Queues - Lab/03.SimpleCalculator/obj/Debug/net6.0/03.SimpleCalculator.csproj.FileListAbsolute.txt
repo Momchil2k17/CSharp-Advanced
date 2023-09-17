@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\net6.0\03.SimpleCalculator.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\net6.0\03.SimpleCalculator.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\net6.0\03.SimpleCalculator.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\net6.0\03.SimpleCalculator.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\bin\Debug\net6.0\03.SimpleCalculator.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\03.SimpleCalculator.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\03.SimpleCalculator.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\03.SimpleCalculator.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\refint\03.SimpleCalculator.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\03.SimpleCalculator.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\03.SimpleCalculator.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\03.SimpleCalculator\obj\Debug\net6.0\ref\03.SimpleCalculator.dll

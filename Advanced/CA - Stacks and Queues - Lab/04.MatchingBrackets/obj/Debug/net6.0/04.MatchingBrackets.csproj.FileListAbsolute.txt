@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\bin\Debug\net6.0\04.MatchingBrackets.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\refint\04.MatchingBrackets.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\04.MatchingBrackets.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\04.MatchingBrackets\obj\Debug\net6.0\ref\04.MatchingBrackets.dll

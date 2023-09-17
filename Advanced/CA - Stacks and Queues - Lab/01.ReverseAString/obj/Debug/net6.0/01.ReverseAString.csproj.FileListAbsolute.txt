@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\bin\Debug\net6.0\01.ReverseAString.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\refint\01.ReverseAString.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\01.ReverseAString.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\01.ReverseAString\obj\Debug\net6.0\ref\01.ReverseAString.dll

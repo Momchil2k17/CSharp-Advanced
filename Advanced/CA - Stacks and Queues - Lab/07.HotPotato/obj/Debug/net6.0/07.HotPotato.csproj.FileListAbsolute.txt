@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\bin\Debug\net6.0\07.HotPotato.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\refint\07.HotPotato.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\07.HotPotato.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\07.HotPotato\obj\Debug\net6.0\ref\07.HotPotato.dll

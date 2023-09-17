@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\bin\Debug\net6.0\02.StackSum.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\refint\02.StackSum.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\02.StackSum.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\02.StackSum\obj\Debug\net6.0\ref\02.StackSum.dll

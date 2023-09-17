@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\bin\Debug\net6.0\11.KeyRevolver.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\refint\11.KeyRevolver.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\11.KeyRevolver.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\11.KeyRevolver\obj\Debug\net6.0\ref\11.KeyRevolver.dll

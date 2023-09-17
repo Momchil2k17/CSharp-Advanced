@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\bin\Debug\net6.0\05.PrintEvenNumbers.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\refint\05.PrintEvenNumbers.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\05.PrintEvenNumbers.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Lab\05.PrintEvenNumbers\obj\Debug\net6.0\ref\05.PrintEvenNumbers.dll

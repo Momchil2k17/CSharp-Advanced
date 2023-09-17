@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\bin\Debug\net6.0\05.FashionBoutique.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\refint\05.FashionBoutique.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\05.FashionBoutique.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\05.FashionBoutique\obj\Debug\net6.0\ref\05.FashionBoutique.dll

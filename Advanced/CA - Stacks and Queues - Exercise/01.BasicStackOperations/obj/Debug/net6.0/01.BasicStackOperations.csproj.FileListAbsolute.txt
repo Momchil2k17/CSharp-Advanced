@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\bin\Debug\net6.0\01.BasicStackOperations.exe
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\bin\Debug\net6.0\01.BasicStackOperations.deps.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\bin\Debug\net6.0\01.BasicStackOperations.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\bin\Debug\net6.0\01.BasicStackOperations.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\bin\Debug\net6.0\01.BasicStackOperations.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\01.BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\01.BasicStackOperations.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\01.BasicStackOperations.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\01.BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\01.BasicStackOperations.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\refint\01.BasicStackOperations.dll
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\01.BasicStackOperations.pdb
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\01.BasicStackOperations.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Stacks and Queues - Exercise\01.BasicStackOperations\obj\Debug\net6.0\ref\01.BasicStackOperations.dll
