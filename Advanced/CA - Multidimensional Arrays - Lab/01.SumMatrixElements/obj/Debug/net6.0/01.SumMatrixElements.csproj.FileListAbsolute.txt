@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\bin\Debug\net6.0\01.SumMatrixElements.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\refint\01.SumMatrixElements.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\01.SumMatrixElements.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\01.SumMatrixElements\obj\Debug\net6.0\ref\01.SumMatrixElements.dll

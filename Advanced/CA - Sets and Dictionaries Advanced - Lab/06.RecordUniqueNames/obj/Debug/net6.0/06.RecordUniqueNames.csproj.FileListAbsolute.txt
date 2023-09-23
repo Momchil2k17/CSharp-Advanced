@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.exe
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.deps.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\bin\Debug\net6.0\06.RecordUniqueNames.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\refint\06.RecordUniqueNames.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\06.RecordUniqueNames.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Lab\06.RecordUniqueNames\obj\Debug\net6.0\ref\06.RecordUniqueNames.dll

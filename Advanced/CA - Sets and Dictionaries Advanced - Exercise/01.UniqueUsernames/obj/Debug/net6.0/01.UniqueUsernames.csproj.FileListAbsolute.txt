@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.exe
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.deps.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\bin\Debug\net6.0\01.UniqueUsernames.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\refint\01.UniqueUsernames.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\01.UniqueUsernames.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\01.UniqueUsernames\obj\Debug\net6.0\ref\01.UniqueUsernames.dll

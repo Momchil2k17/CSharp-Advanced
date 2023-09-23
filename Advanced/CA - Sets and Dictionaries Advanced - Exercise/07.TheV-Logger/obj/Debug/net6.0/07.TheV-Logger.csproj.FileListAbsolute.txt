@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.exe
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.deps.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\bin\Debug\net6.0\07.TheV-Logger.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\refint\07.TheV-Logger.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\07.TheV-Logger.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\07.TheV-Logger\obj\Debug\net6.0\ref\07.TheV-Logger.dll

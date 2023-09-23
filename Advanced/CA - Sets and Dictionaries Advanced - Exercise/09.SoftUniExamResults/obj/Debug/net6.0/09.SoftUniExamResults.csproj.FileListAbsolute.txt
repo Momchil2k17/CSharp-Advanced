@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.exe
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.deps.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\bin\Debug\net6.0\09.SoftUniExamResults.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\refint\09.SoftUniExamResults.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\09.SoftUniExamResults.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\09.SoftUniExamResults\obj\Debug\net6.0\ref\09.SoftUniExamResults.dll

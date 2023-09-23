@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\bin\Debug\net6.0\03.MaximalSum.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\refint\03.MaximalSum.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\03.MaximalSum.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\03.MaximalSum\obj\Debug\net6.0\ref\03.MaximalSum.dll

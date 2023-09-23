@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\bin\Debug\net6.0\01.DiagonalDifference.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\refint\01.DiagonalDifference.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\01.DiagonalDifference.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\01.DiagonalDifference\obj\Debug\net6.0\ref\01.DiagonalDifference.dll

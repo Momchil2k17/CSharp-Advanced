@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\bin\Debug\net6.0\04.SymbolInMatrix.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\bin\Debug\net6.0\04.SymbolInMatrix.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\bin\Debug\net6.0\04.SymbolInMatrix.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\bin\Debug\net6.0\04.SymbolInMatrix.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\bin\Debug\net6.0\04.SymbolInMatrix.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\04.SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\04.SymbolInMatrix.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\04.SymbolInMatrix.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\04.SymbolInMatrix.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\refint\04.SymbolInMatrix.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\04.SymbolInMatrix.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\04.SymbolInMatrix.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\04.SymbolInMatrix\obj\Debug\net6.0\ref\04.SymbolInMatrix.dll

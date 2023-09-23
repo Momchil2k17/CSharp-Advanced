@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\bin\Debug\net6.0\02.SumMatrixColumns.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\refint\02.SumMatrixColumns.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\02.SumMatrixColumns.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\02.SumMatrixColumns\obj\Debug\net6.0\ref\02.SumMatrixColumns.dll

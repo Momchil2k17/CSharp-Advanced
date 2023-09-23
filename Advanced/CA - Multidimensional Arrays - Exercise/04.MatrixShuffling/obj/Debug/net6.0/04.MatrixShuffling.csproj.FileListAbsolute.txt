@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\bin\Debug\net6.0\04.MatrixShuffling.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\refint\04.MatrixShuffling.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\04.MatrixShuffling.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\04.MatrixShuffling\obj\Debug\net6.0\ref\04.MatrixShuffling.dll

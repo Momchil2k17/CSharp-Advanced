@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.exe
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.deps.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\bin\Debug\net6.0\02.SetsOfElements.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\refint\02.SetsOfElements.dll
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.pdb
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\02.SetsOfElements.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Sets and Dictionaries Advanced - Exercise\02.SetsOfElements\obj\Debug\net6.0\ref\02.SetsOfElements.dll

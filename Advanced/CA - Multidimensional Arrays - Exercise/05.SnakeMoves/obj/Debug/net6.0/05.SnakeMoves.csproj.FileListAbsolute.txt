@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\bin\Debug\net6.0\05.SnakeMoves.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\refint\05.SnakeMoves.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\05.SnakeMoves.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\05.SnakeMoves\obj\Debug\net6.0\ref\05.SnakeMoves.dll

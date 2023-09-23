@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\bin\Debug\net6.0\03.PrimaryDiagonal.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\refint\03.PrimaryDiagonal.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\03.PrimaryDiagonal.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Lab\03.PrimaryDiagonal\obj\Debug\net6.0\ref\03.PrimaryDiagonal.dll

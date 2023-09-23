@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.exe
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.deps.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\bin\Debug\net6.0\2.SquaresInMatrix.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\refint\2.SquaresInMatrix.dll
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.pdb
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\2.SquaresInMatrix.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Multidimensional Arrays - Exercise\2.SquaresInMatrix\obj\Debug\net6.0\ref\2.SquaresInMatrix.dll
