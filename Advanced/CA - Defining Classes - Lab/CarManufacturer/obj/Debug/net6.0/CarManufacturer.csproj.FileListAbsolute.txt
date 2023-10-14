@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Defining Classes\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll

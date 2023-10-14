@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.exe
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.deps.json
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.dll
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\bin\Debug\net6.0\PokemonTrainer.pdb
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.dll
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\refint\PokemonTrainer.dll
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.pdb
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\PokemonTrainer.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Defining Classes - Ex\PokemonTrainer\obj\Debug\net6.0\ref\PokemonTrainer.dll

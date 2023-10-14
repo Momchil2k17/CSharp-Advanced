@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\bin\Debug\net6.0\01.ActionPrint.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\refint\01.ActionPrint.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\01.ActionPrint.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\01.ActionPrint\obj\Debug\net6.0\ref\01.ActionPrint.dll

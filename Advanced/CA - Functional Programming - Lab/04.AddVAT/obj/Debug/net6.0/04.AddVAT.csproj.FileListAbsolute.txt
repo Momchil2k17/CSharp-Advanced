@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\bin\Debug\net6.0\04.AddVAT.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\refint\04.AddVAT.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\04.AddVAT.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\04.AddVAT\obj\Debug\net6.0\ref\04.AddVAT.dll

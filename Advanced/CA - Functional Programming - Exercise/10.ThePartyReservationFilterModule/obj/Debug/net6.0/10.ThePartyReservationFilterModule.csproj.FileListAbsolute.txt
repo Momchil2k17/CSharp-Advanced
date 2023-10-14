@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\bin\Debug\net6.0\10.ThePartyReservationFilterModule.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\refint\10.ThePartyReservationFilterModule.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\10.ThePartyReservationFilterModule.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\10.ThePartyReservationFilterModule\obj\Debug\net6.0\ref\10.ThePartyReservationFilterModule.dll

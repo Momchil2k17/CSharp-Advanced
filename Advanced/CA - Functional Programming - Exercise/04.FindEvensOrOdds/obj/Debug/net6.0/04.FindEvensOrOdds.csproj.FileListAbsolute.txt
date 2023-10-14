@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\bin\Debug\net6.0\04.FindEvensOrOdds.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\refint\04.FindEvensOrOdds.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\04.FindEvensOrOdds.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\04.FindEvensOrOdds\obj\Debug\net6.0\ref\04.FindEvensOrOdds.dll

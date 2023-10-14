@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\bin\Debug\net6.0\08.ListOfPredicates.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\bin\Debug\net6.0\08.ListOfPredicates.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\bin\Debug\net6.0\08.ListOfPredicates.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\bin\Debug\net6.0\08.ListOfPredicates.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\bin\Debug\net6.0\08.ListOfPredicates.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\08.ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\08.ListOfPredicates.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\08.ListOfPredicates.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\08.ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\08.ListOfPredicates.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\refint\08.ListOfPredicates.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\08.ListOfPredicates.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\08.ListOfPredicates.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\08.ListOfPredicates\obj\Debug\net6.0\ref\08.ListOfPredicates.dll

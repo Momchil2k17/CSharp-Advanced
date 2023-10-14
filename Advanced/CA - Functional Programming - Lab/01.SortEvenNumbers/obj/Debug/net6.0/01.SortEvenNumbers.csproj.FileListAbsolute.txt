@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\bin\Debug\net6.0\01.SortEvenNumbers.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\refint\01.SortEvenNumbers.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\01.SortEvenNumbers.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\01.SortEvenNumbers\obj\Debug\net6.0\ref\01.SortEvenNumbers.dll

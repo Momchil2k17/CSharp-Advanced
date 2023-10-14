@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\bin\Debug\net6.0\02.KnightsOfHonor.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\refint\02.KnightsOfHonor.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\02.KnightsOfHonor.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\02.KnightsOfHonor\obj\Debug\net6.0\ref\02.KnightsOfHonor.dll

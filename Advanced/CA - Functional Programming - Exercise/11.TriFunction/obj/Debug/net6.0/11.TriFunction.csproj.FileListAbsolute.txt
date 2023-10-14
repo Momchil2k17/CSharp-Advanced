@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\bin\Debug\net6.0\11.TriFunction.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\refint\11.TriFunction.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\11.TriFunction.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\11.TriFunction\obj\Debug\net6.0\ref\11.TriFunction.dll

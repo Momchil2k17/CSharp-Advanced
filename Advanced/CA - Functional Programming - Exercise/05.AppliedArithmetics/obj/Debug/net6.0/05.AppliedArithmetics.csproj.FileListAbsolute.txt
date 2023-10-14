@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\bin\Debug\net6.0\05.AppliedArithmetics.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\refint\05.AppliedArithmetics.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\05.AppliedArithmetics.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\05.AppliedArithmetics\obj\Debug\net6.0\ref\05.AppliedArithmetics.dll

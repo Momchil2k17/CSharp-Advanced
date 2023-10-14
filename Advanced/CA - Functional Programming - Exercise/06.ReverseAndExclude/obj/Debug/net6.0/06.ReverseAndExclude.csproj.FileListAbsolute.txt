@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\bin\Debug\net6.0\06.ReverseAndExclude.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\bin\Debug\net6.0\06.ReverseAndExclude.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\bin\Debug\net6.0\06.ReverseAndExclude.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\bin\Debug\net6.0\06.ReverseAndExclude.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\bin\Debug\net6.0\06.ReverseAndExclude.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\06.ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\06.ReverseAndExclude.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\06.ReverseAndExclude.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\06.ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\06.ReverseAndExclude.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\refint\06.ReverseAndExclude.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\06.ReverseAndExclude.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\06.ReverseAndExclude.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Exercise\06.ReverseAndExclude\obj\Debug\net6.0\ref\06.ReverseAndExclude.dll

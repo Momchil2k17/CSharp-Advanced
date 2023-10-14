@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.exe
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.deps.json
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\bin\Debug\net6.0\05.FilterByAge.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\refint\05.FilterByAge.dll
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.pdb
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\05.FilterByAge.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Functional Programming - Lab\05.FilterByAge\obj\Debug\net6.0\ref\05.FilterByAge.dll
