@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.exe
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.deps.json
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.dll
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\bin\Debug\net6.0\01.ClassBoxData.pdb
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.dll
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\refint\01.ClassBoxData.dll
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.pdb
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\01.ClassBoxData.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\01.ClassBoxData\obj\Debug\net6.0\ref\01.ClassBoxData.dll

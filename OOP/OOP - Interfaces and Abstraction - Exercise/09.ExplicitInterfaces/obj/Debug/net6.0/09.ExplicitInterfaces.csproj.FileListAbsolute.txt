@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.exe
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.deps.json
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\bin\Debug\net6.0\09.ExplicitInterfaces.pdb
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\refint\09.ExplicitInterfaces.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.pdb
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\09.ExplicitInterfaces.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\09.ExplicitInterfaces\obj\Debug\net6.0\ref\09.ExplicitInterfaces.dll

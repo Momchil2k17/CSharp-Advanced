@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.exe
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.deps.json
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.dll
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\bin\Debug\net6.0\05.FootballTeamGenerator.pdb
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.dll
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\refint\05.FootballTeamGenerator.dll
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.pdb
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\05.FootballTeamGenerator.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Encapsulation - Exercise\05.FootballTeamGenerator\obj\Debug\net6.0\ref\05.FootballTeamGenerator.dll

@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.exe
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.deps.json
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.dll
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\bin\Debug\net6.0\01.SquareRoot.pdb
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.dll
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\refint\01.SquareRoot.dll
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.pdb
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\01.SquareRoot.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\01.SquareRoot\obj\Debug\net6.0\ref\01.SquareRoot.dll

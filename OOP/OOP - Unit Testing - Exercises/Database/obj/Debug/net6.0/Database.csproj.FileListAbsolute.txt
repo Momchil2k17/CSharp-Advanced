@@ -1,0 +1,22 @@
+C:\Users\momch\Работен плот\New folder\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\momch\Работен плот\New folder\Database\bin\Debug\net6.0\Database.dll
+C:\Users\momch\Работен плот\New folder\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\momch\Работен плот\New folder\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\momch\Работен плот\New folder\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\momch\Работен плот\New folder\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\momch\Работен плот\New folder\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\momch\Работен плот\New folder\Database\obj\Debug\net6.0\Database.dll
+C:\Users\momch\Работен плот\New folder\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\momch\Работен плот\New folder\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\momch\Работен плот\New folder\Database\obj\Debug\net6.0\ref\Database.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.deps.json
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\bin\Debug\net6.0\Database.pdb
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\obj\Debug\net6.0\refint\Database.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\obj\Debug\net6.0\Database.pdb
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\Database\obj\Debug\net6.0\ref\Database.dll

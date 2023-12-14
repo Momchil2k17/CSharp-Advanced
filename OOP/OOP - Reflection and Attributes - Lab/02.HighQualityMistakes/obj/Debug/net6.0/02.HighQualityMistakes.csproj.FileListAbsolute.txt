@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.exe
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.deps.json
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.pdb
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\refint\02.HighQualityMistakes.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.pdb
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\02.HighQualityMistakes\obj\Debug\net6.0\ref\02.HighQualityMistakes.dll

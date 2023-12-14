@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.exe
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.deps.json
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\bin\Debug\net6.0\05.CreateAttribute.pdb
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\refint\05.CreateAttribute.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.pdb
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\05.CreateAttribute.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Lab\05.CreateAttribute\obj\Debug\net6.0\ref\05.CreateAttribute.dll

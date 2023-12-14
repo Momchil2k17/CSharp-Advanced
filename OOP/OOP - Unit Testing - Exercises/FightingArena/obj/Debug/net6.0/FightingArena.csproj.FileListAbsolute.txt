@@ -1,0 +1,11 @@
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.deps.json
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\bin\Debug\net6.0\FightingArena.pdb
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\refint\FightingArena.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\FightingArena.pdb
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\FightingArena\obj\Debug\net6.0\ref\FightingArena.dll

@@ -1,0 +1,14 @@
+D:\Programs\Practice\CA - Exam\02FishingCompetition\bin\Debug\net6.0\02FishingCompetition.exe
+D:\Programs\Practice\CA - Exam\02FishingCompetition\bin\Debug\net6.0\02FishingCompetition.deps.json
+D:\Programs\Practice\CA - Exam\02FishingCompetition\bin\Debug\net6.0\02FishingCompetition.runtimeconfig.json
+D:\Programs\Practice\CA - Exam\02FishingCompetition\bin\Debug\net6.0\02FishingCompetition.dll
+D:\Programs\Practice\CA - Exam\02FishingCompetition\bin\Debug\net6.0\02FishingCompetition.pdb
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\02FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\02FishingCompetition.AssemblyInfoInputs.cache
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\02FishingCompetition.AssemblyInfo.cs
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\02FishingCompetition.csproj.CoreCompileInputs.cache
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\02FishingCompetition.dll
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\refint\02FishingCompetition.dll
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\02FishingCompetition.pdb
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\02FishingCompetition.genruntimeconfig.cache
+D:\Programs\Practice\CA - Exam\02FishingCompetition\obj\Debug\net6.0\ref\02FishingCompetition.dll

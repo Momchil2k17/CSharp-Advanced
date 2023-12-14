@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.exe
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.deps.json
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.dll
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\bin\Debug\net6.0\01.MathOperations.pdb
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.dll
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\refint\01.MathOperations.dll
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.pdb
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\01.MathOperations.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\01.MathOperations\obj\Debug\net6.0\ref\01.MathOperations.dll

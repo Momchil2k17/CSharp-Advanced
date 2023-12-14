@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>WildFarm</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Core\Interfaces\" />
+    <Folder Include="Factories\" />
+    <Folder Include="IO\" />
+    <Folder Include="Models\Animals\" />
+    <Folder Include="Models\Food\" />
+    <Folder Include="Models\Interfaces\" />
+  </ItemGroup>
+
+</Project>

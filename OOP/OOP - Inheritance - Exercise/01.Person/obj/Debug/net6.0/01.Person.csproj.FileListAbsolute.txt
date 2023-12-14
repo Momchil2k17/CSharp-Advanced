@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\bin\Debug\net6.0\01.Person.exe
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\bin\Debug\net6.0\01.Person.deps.json
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\bin\Debug\net6.0\01.Person.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\bin\Debug\net6.0\01.Person.dll
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\bin\Debug\net6.0\01.Person.pdb
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\01.Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\01.Person.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\01.Person.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\01.Person.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\01.Person.dll
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\refint\01.Person.dll
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\01.Person.pdb
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\01.Person.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\01.Person\obj\Debug\net6.0\ref\01.Person.dll

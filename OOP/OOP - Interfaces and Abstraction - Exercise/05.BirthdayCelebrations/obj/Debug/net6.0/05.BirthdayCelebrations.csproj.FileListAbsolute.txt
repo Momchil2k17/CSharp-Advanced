@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.exe
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.deps.json
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\bin\Debug\net6.0\05.BirthdayCelebrations.pdb
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\refint\05.BirthdayCelebrations.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.pdb
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\05.BirthdayCelebrations.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\05.BirthdayCelebrations\obj\Debug\net6.0\ref\05.BirthdayCelebrations.dll

@@ -1,0 +1,14 @@
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\bin\Debug\net6.0\05GenericCountMethodString.exe
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\bin\Debug\net6.0\05GenericCountMethodString.deps.json
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\bin\Debug\net6.0\05GenericCountMethodString.runtimeconfig.json
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\bin\Debug\net6.0\05GenericCountMethodString.dll
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\bin\Debug\net6.0\05GenericCountMethodString.pdb
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\05GenericCountMethodString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\05GenericCountMethodString.AssemblyInfoInputs.cache
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\05GenericCountMethodString.AssemblyInfo.cs
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\05GenericCountMethodString.csproj.CoreCompileInputs.cache
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\05GenericCountMethodString.dll
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\refint\05GenericCountMethodString.dll
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\05GenericCountMethodString.pdb
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\05GenericCountMethodString.genruntimeconfig.cache
+D:\Programs\C# Advanced\CA - Generics - Exercise\05GenericCountMethodString\obj\Debug\net6.0\ref\05GenericCountMethodString.dll

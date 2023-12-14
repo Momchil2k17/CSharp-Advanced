@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.exe
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.deps.json
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.dll
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\bin\Debug\net6.0\02.MultipleInheritance.pdb
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.dll
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\refint\02.MultipleInheritance.dll
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.pdb
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\02.MultipleInheritance.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Inheritance - Lab\02.MultipleInheritance\obj\Debug\net6.0\ref\02.MultipleInheritance.dll

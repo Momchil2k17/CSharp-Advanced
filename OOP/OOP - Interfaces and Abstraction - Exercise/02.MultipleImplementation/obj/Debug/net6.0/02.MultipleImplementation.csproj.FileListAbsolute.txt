@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.exe
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.deps.json
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\bin\Debug\net6.0\02.MultipleImplementation.pdb
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\refint\02.MultipleImplementation.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.pdb
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\02.MultipleImplementation.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\02.MultipleImplementation\obj\Debug\net6.0\ref\02.MultipleImplementation.dll

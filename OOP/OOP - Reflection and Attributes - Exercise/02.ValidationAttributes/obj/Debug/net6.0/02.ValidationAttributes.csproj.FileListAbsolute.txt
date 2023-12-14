@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.exe
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.deps.json
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\bin\Debug\net6.0\02.ValidationAttributes.pdb
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\refint\02.ValidationAttributes.dll
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.pdb
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\02.ValidationAttributes.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Reflection and Attributes - Exercise\02.ValidationAttributes\obj\Debug\net6.0\ref\02.ValidationAttributes.dll

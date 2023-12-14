@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.exe
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.deps.json
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.dll
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\bin\Debug\net6.0\01.SingleInheritance.pdb
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.dll
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.pdb
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Inheritance - Lab\01.SingleInheritance\obj\Debug\net6.0\ref\01.SingleInheritance.dll

@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\01.TestAxe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\01.TestAxe.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\01.TestAxe.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\01.TestAxe.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\bin\Debug\net6.0\01.TestAxe.exe
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\bin\Debug\net6.0\01.TestAxe.deps.json
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\bin\Debug\net6.0\01.TestAxe.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\bin\Debug\net6.0\01.TestAxe.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\bin\Debug\net6.0\01.TestAxe.pdb
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\01.TestAxe.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\refint\01.TestAxe.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\01.TestAxe.pdb
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\01.TestAxe.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Lab\01.TestAxe\obj\Debug\net6.0\ref\01.TestAxe.dll

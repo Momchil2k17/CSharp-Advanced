@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.exe
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.deps.json
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.dll
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\bin\Debug\net6.0\02.Animals.pdb
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.dll
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\refint\02.Animals.dll
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.pdb
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\02.Animals.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Polymorphism - Lab\02.Animals\obj\Debug\net6.0\ref\02.Animals.dll

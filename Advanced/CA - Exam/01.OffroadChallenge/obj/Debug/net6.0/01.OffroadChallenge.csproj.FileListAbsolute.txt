@@ -1,0 +1,14 @@
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.exe
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.deps.json
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.runtimeconfig.json
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.dll
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.pdb
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfoInputs.cache
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfo.cs
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.csproj.CoreCompileInputs.cache
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.dll
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\refint\01.OffroadChallenge.dll
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.pdb
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.genruntimeconfig.cache
+D:\Programs\Practice\CA - Exam\01.OffroadChallenge\obj\Debug\net6.0\ref\01.OffroadChallenge.dll

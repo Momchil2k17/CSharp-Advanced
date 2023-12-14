@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.exe
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.deps.json
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.dll
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\bin\Debug\net6.0\02.EnterNumbers.pdb
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.dll
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\refint\02.EnterNumbers.dll
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.pdb
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\02.EnterNumbers.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Exceptions and Error Handling - Lab\02.EnterNumbers\obj\Debug\net6.0\ref\02.EnterNumbers.dll

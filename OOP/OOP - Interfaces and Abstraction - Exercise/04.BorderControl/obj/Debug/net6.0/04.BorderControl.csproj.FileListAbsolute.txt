@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.exe
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.deps.json
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\bin\Debug\net6.0\04.BorderControl.pdb
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\refint\04.BorderControl.dll
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.pdb
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\04.BorderControl.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Interfaces and Abstraction - Exercise\04.BorderControl\obj\Debug\net6.0\ref\04.BorderControl.dll

@@ -1,0 +1,14 @@
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\bin\Debug\net6.0\02.Zoo.exe
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\bin\Debug\net6.0\02.Zoo.deps.json
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\bin\Debug\net6.0\02.Zoo.runtimeconfig.json
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\bin\Debug\net6.0\02.Zoo.dll
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\bin\Debug\net6.0\02.Zoo.pdb
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\02.Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\02.Zoo.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\02.Zoo.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\02.Zoo.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\02.Zoo.dll
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\refint\02.Zoo.dll
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\02.Zoo.pdb
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\02.Zoo.genruntimeconfig.cache
+D:\Programs\C# OOP\OOP - Inheritance - Exercise\02.Zoo\obj\Debug\net6.0\ref\02.Zoo.dll

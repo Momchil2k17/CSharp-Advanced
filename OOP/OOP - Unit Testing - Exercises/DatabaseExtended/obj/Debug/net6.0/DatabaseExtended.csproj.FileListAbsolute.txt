@@ -1,0 +1,11 @@
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.deps.json
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\bin\Debug\net6.0\DatabaseExtended.pdb
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfoInputs.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.AssemblyInfo.cs
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\refint\DatabaseExtended.dll
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\DatabaseExtended.pdb
+D:\Programs\C# OOP\OOP - Unit Testing - Exercises\DatabaseExtended\obj\Debug\net6.0\ref\DatabaseExtended.dll
